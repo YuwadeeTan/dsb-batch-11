@@ -13,3 +13,4 @@ Data Science and Analytics Project
 reach out to me at yuwadee.tant@gmail.com
 
 ## Image
+![Alt text](https://th.m.wikipedia.org/wiki/%E0%B9%84%E0%B8%9F%E0%B8%A5%E0%B9%8C:Panda_Cub_from_Wolong,_Sichuan,_China.JPG)
