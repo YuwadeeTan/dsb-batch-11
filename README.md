@@ -8,3 +8,8 @@ Data Science and Analytics Project
 3. R Programming
 4. LOOKER GA4 Dashboard
 5. Linear Regression Model using Caret
+
+## Contact me
+reach out to me at yuwadee.tant@gmail.com
+
+## Image
